@@ -24,6 +24,6 @@ Software Engineer in CareemPAY vertical. We manage to extract CareemPAY from the
 ### Technologies ###
 Kotlin, Kotlin Coroutines, Firebase, Espresso, Cucumber, Glide, lottie-android, CI -> Bitrise, CD -> Firebase
 <p align="center">
-<img src="https://github.com/jibraniqbal666/jibraniqbal666.github.io/blob/gh-pages/2021-01-13 00.42.41.jpg?" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jibraniqbal666/jibraniqbal666.github.io/blob/gh-pages/2021-01-13 00.42.43.jpg?" width="230" title="Upcoming">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jibraniqbal666/jibraniqbal666.github.io/blob/gh-pages/2021-01-13 00.42.27.jpg?" width="230"  title="Camera">
+<img src="https://raw.githubusercontent.com/jibraniqbal666/jibraniqbal666.github.io/gh-pages/2021-01-13%2000.42.41.jpg" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/jibraniqbal666/jibraniqbal666.github.io/gh-pages/2021-01-13%2000.42.43.jpg" width="230" title="Upcoming">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/jibraniqbal666/jibraniqbal666.github.io/gh-pages/2021-01-13%2000.42.27.jpg" width="230"  title="Camera">
 </p>
 
